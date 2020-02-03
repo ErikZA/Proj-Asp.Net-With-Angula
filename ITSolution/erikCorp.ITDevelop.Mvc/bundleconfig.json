@@ -1,0 +1,65 @@
+[
+  //Arquivos de CSS e de JAVASCRIOT minificados
+  {
+    "outputFileName": "wwwroot/minificados/bundleCsMinifi.css",//pasta de destino
+    "inputFiles": [
+      "wwwroot/css/bootstrap.css", // arquivo minificado
+      "wwwroot/css/custom.css", // arquivo minificado
+      "wwwroot/css/icons.css", // arquivo minificado
+      "wwwroot/css/main.css", // arquivo minificado
+      "wwwroot/css/plugins.css" // arquivo minificado
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/minificados/bundleJsMinifi.js",
+    "inputFiles": [
+      "wwwroot/js/pages/tabs.js",
+      "wwwroot/js/pages/tables-editable.js",
+      "wwwroot/js/pages/accordions.js",
+      "wwwroot/js/pages/blank.js",
+      "wwwroot/js/pages/calendar.js",
+      "wwwroot/js/pages/charts-chartjs.js",
+      "wwwroot/js/pages/charts-flot.js",
+      "wwwroot/js/pages/charts-morris.js",
+      "wwwroot/js/pages/charts-other.js",
+      "wwwroot/js/pages/code-editor.js",
+      "wwwroot/js/pages/dashboard.js",
+      "wwwroot/js/pages/email.js",
+      "wwwroot/js/pages/forms-advanced.js",
+      "wwwroot/js/pages/forms-basic.js",
+      "wwwroot/js/pages/forms-validation.js",
+      "wwwroot/js/pages/forms-wizard.js",
+      "wwwroot/js/pages/gallery.js",
+      "wwwroot/js/pages/icons.js",
+      "wwwroot/js/pages/list.js",
+      "wwwroot/js/pages/login.js",
+      "wwwroot/js/pages/maps-google.js",
+      "wwwroot/js/pages/maps-vector.js",
+      "wwwroot/js/pages/modals.js",
+      "wwwroot/js/pages/notifications.js",
+      "wwwroot/js/pages/profile.js",
+      "wwwroot/js/pages/progressbars.js",
+      "wwwroot/js/pages/sliders.js",
+      "wwwroot/js/pages/tables-ajax.js",
+      "wwwroot/js/pages/tables-basic.js",
+      "wwwroot/js/pages/tables-data.js",
+      "wwwroot/js/libs/date.js",
+      "wwwroot/js/libs/excanvas.min.js",
+      "wwwroot/js/libs/jquery-2.1.1.min.js",
+      "wwwroot/js/libs/jquery-ui-1.10.4.min.js",
+      "wwwroot/js/libs/less-1.7.0.js",
+      "wwwroot/js/libs/modernizr.custom.js",
+      "wwwroot/js/libs/moment.js",
+      "wwwroot/js/libs/moment-with-locales.js",
+      "wwwroot/js/libs/raphael.js",
+      "wwwroot/js/libs/raphael-min.js",
+      "wwwroot/js/libs/respond.min.js",
+      "wwwroot/js/libs/typeahead.bundle.js",
+      "wwwroot/js/libs/typeahead.jquery.min.js",
+      "wwwroot/js/bootstrap/bootstrap.js",
+      "wwwroot/js/jquery.dynamic.js",
+      "wwwroot/js/main.js",
+      "wwwroot/js/jRespond.min.js"
+    ]
+  }
+]

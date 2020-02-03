@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+
+@await Html.PartialAsync("partialView/_head")
+
+
+<body class="hold-transition sidebar-mini layout-fixed">
+    @await Html.PartialAsync("partialView/_navBar")
+
+    <div class="wrapper">
+        @await Html.PartialAsync("partialView/_sideBar")
+
+        @* Manter aki nesta pagina somente o que for fixo nas paginas. *@
+        @RenderBody()
+
+    </div>
+        
+    <div id="back-to-top">
+        <a href="#">VOLTAR PARA O TOPO</a>
+    </div>
+
+
+    @await Html.PartialAsync("partialView/_footer")
+    @await Html.PartialAsync("partialView/_scripts")
+
+    @*@RenderSection("scripts", required: false)  -> isto carrega os escrips de outros componentes.*@
+
+</body>
+
+</html>
