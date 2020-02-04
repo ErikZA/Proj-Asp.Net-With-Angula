@@ -1,0 +1,53 @@
+vscode-icons
+
+TypeScript Hero
+
+TSLint
+
+Prettier - Code formatter
+
+Portuguese (Brazil) Language Pack for Visual Studio Code
+
+Path Intellisense
+
+NG.42 TS Helpers
+
+Move TS - Move TypeScript files and update relative imports
+
+json2ts
+
+HTML Snippets
+	
+Github Build Status
+
+Debugger for Chrome
+
+Code Spell Checker
+
+C#
+
+Brazilian Portuguese - Code Spell Checker
+
+Auto Rename Tag
+
+Auto Import
+
+Auto Close Tag
+
+AngularDoc for Visual Studio Code
+
+angular2-switcher
+
+Angular Snippets (Version 8)
+
+Angular Schematics
+
+Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets
+
+Angular Language Service
+
+Angular Extension Pack
+
+Angular 2, 4 and upcoming latest TypeScript HTML Snippets
+
+Angular 2 TypeScript Test Snippets
